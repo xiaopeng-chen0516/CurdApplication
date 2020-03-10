@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BottomNavigation-master.iml" filepath="$PROJECT_DIR$/BottomNavigation-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CurdApplication.iml" filepath="$PROJECT_DIR$/CurdApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/navigationviewlibrary/navigationviewlibrary.iml" filepath="$PROJECT_DIR$/navigationviewlibrary/navigationviewlibrary.iml" />
     </modules>
